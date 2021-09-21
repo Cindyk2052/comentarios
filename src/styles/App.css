@@ -1,0 +1,33 @@
+@import '~antd/dist/antd.css';
+
+.Row{
+    padding-left: 50px;
+    flex-direction: row;
+}
+
+.Col{
+    padding-left: 50px;
+}
+
+.Button{
+    margin-left: 20px;
+}
+
+.Col-Button{
+    margin-left: 20px;
+}
+
+.Col-Search{
+    margin-top: 20px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.Buscador{
+    margin-left: 50px;
+}
+
+.Buscar {
+
+    margin-top: 30px;
+}
